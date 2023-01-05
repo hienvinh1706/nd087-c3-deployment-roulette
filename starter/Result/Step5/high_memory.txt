@@ -1,0 +1,1 @@
+hello-world application is using about 20Mi
